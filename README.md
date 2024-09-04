@@ -1,6 +1,6 @@
 # The-James-Liao-Org
 
-# Hi there 👋
+## Hi there 👋
 
 ## About me
 
