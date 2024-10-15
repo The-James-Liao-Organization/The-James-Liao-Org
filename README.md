@@ -10,7 +10,7 @@
 
 ## Currently Learning
 
- Currently tudying Programming/Coding online.
+ Currently studying Programming/Coding online.
 
 ## Pronouns
 
